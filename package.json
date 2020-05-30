@@ -10,6 +10,9 @@
     "lint:fix": "npm run lint -- --fix"
   },
   "dependencies": {
+    "@types/debounce": "^1.2.0",
+    "classnames": "^2.2.6",
+    "debounce": "^1.2.0",
     "next": "9.4.2",
     "react": "16.13.1",
     "react-dom": "16.13.1"
